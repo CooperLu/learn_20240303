@@ -1,0 +1,6 @@
+#add_subdirectory(add)
+include_directories(./lib)
+#include_libraries(C:/Users/huyan/Desktop/cmake_study/lesson2-1/lib/add_static.lib)
+#include_directories(C:/Users/huyan/Desktop/cmake_study/lesson2-1/lib/)
+add_executable(name_lesson2-1 main.cpp)
+target_link_libraries(name_lesson2-1 C:/Users/huyan/Desktop/cmake_study/lesson2-1/lib/add_static.lib)
