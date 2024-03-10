@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 3.10)
 project(planning_algorithms)
 
 
-find_package(OpenCV 4.5.2 REQUIRED)
-include_directories(${OpenCV_INCLUDE_DIRS})
-link_directories(${OpenCV_LIBRARY_DIRS})
+#find_package(OpenCV 4.5.2 REQUIRED)
+#include_directories(${OpenCV_INCLUDE_DIRS})
+#link_directories(${OpenCV_LIBRARY_DIRS})
 
 find_package(yaml-cpp REQUIRED)
 find_package(Eigen3 REQUIRED)
