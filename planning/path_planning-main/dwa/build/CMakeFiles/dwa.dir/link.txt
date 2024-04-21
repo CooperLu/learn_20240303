@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dwa.dir/src/main.cc.o CMakeFiles/dwa.dir/src/dwa.cc.o -o dwa  /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.6.2 /usr/lib/x86_64-linux-gnu/libpython3.8.so 
