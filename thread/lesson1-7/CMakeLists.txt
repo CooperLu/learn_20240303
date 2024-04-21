@@ -1,0 +1,1 @@
+add_executable(thread_lesson1_7 main.cpp)
